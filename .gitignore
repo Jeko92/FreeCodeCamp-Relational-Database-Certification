@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# JetBrains project files
+/.idea
+
+# OS folders
+.DS_Store
